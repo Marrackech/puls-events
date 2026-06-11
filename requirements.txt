@@ -1,0 +1,8 @@
+mistralai==1.2.5
+faiss-cpu
+fastapi
+uvicorn[standard]
+requests
+pandas
+python-dotenv
+pydantic

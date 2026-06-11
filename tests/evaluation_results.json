@@ -1,0 +1,78 @@
+{
+  "score_moyen": 0.8995,
+  "correctes": 6,
+  "partielles": 4,
+  "incorrectes": 0,
+  "details": [
+    {
+      "question": "Quels concerts sont prévus à Paris ?",
+      "reponse_attendue": "Il y a plusieurs concerts prévus à Paris, notamment les concerts COGE à l'Église Saint-Marcel les 12, 13, 19 et 20 juin 2026, ainsi que le Requiem de Fauré à l'Église Sainte-Marie des Batignolles.",
+      "reponse_generee": "Voici les concerts prévus à Paris selon les événements disponibles :\n\n1. **Concert COGE** (plusieurs dates) :\n   - **Vendredi 12 juin 2026** de 20h à 23h à l'**Église Saint-Marcel**.\n   - **Samedi 13 juin 2026** de 20h à 23h à l'**Église Saint-Marcel**.\n   - **Vendredi 19 juin 2026** de 20h30 à 22h30 à l'**Église Saint-Marcel**.\n   - **Samedi 20 juin 2026** de 20h à 23h à l'**Église Saint-Marcel**.\n\n2. **Concert : Requiem de Fauré** (Tango, Gospel et mélodies) :\n   - **Lieu** : Église Sainte-Marie des Batignolles (date non précisée).\n\nSi vous cherchez un concert à une date spécifique ou un style particulier, précisez-le pour une réponse plus ciblée.",
+      "score_similarite": 0.9413,
+      "evaluation": "✅ Correcte"
+    },
+    {
+      "question": "Y a-t-il des événements pour les enfants à Paris ?",
+      "reponse_attendue": "Oui, il existe des événements familiaux et pour enfants à Paris, notamment des ateliers et activités proposés par les conservatoires de Grand Paris Seine Ouest.",
+      "reponse_generee": "Oui, il y a des événements pour les enfants à Paris parmi ceux listés :\n\n1. **\"Formes ouvertes : Les Petites Visites de Paris Mômes\"** – Une exposition interactive avec des visites guidées pour les **6-10 ans** à l'**Institut suédois**.\n2. **\"Zoot For Kids / Atelier Jazz Jeune Public\"** – Un atelier pour découvrir le jazz, ses instruments et ses rythmes, proposé par le **Zoot Collectif** au **JASS CLUB** (plusieurs occurrences, mais sans date précisée).\n\nCes deux événements sont spécifiquement conçus pour un jeune public.",
+      "score_similarite": 0.9014,
+      "evaluation": "✅ Correcte"
+    },
+    {
+      "question": "Quels événements culturels ont lieu en juin 2026 ?",
+      "reponse_attendue": "En juin 2026, plusieurs événements culturels sont prévus à Paris, dont des concerts à l'Église Saint-Marcel, des conférences à la Maison de l'Europe, et des activités littéraires à la Librairie de Paris.",
+      "reponse_generee": "Voici les événements culturels prévus en **juin 2026** à Paris, d'après les données disponibles :\n\n1. **Dimanche 07 juin 2026** de 17h à 19h :\n   *Concert du **Rainbow Symphony Orchestra (RSO)***\n   Lieu : Église Saint-Marcel\n\n2. **Vendredi 12 juin 2026** de 20h à 23h :\n   *Concert **COGE***\n   Lieu : Église Saint-Marcel\n\n3. **Samedi 13 juin 2026** de 20h à 23h :\n   *Concert **COGE***\n   Lieu : Église Saint-Marcel\n\n4. **Vendredi 19 juin 2026** de 20h30 à 22h30 :\n   *Concert **COGE***\n   Lieu : Église Saint-Marcel\n\n5. **Samedi 20 juin 2026** de 20h à 23h :\n   *Concert **COGE***\n   Lieu : Église Saint-Marcel\n\nTous ces événements se déroulent à l'**Église Saint-Marcel** à Paris.",
+      "score_similarite": 0.922,
+      "evaluation": "✅ Correcte"
+    },
+    {
+      "question": "Quels événements se déroulent à l'Église Saint-Marcel ?",
+      "reponse_attendue": "L'Église Saint-Marcel accueille les concerts COGE les vendredis et samedis de juin 2026, avec des horaires de 20h à 23h.",
+      "reponse_generee": "Voici les événements qui se déroulent à l'**Église Saint-Marcel** à Paris, d'après les données disponibles :\n\n1. **Mardi 16 juin 2026** – Concert du chœur *Stella Maris* (20h45 à 22h15)\n2. **Vendredi 12 juin 2026** – Concert COGE (20h à 23h)\n3. **Samedi 13 juin 2026** – Concert COGE (20h à 23h)\n4. **Vendredi 19 juin 2026** – Concert COGE (20h30 à 22h30)\n5. **Samedi 20 juin 2026** – Concert COGE (20h à 23h)",
+      "score_similarite": 0.9227,
+      "evaluation": "✅ Correcte"
+    },
+    {
+      "question": "Y a-t-il des événements jazz à Paris ?",
+      "reponse_attendue": "Oui, le JASS CLUB PARIS propose des événements jazz réguliers à Paris.",
+      "reponse_generee": "Oui, il y a plusieurs événements jazz à Paris dans les données disponibles :\n\n1. **Les samedis ‘Brasil e jazz’ / par Jean-Baptiste Loutte** – Un rendez-vous mensuel explorant les affinités entre jazz et musique brésilienne (plusieurs occurrences).\n2. **CINÉ-JAZZ : les thèmes légendaires du grand écran** – Un quartet revisitant les thèmes mythiques du cinéma à travers le jazz.\n3. **Soirée jazz manouche & swing / par Alba Obert** – Une soirée dédiée au jazz manouche et au swing.\n\nTous ces événements ont lieu au **JASS CLUB** à Paris. Les dates ne sont pas précisées (\"nan\"), mais ils sont programmés en soirée (19h30 et 21h30).",
+      "score_similarite": 0.9037,
+      "evaluation": "✅ Correcte"
+    },
+    {
+      "question": "Quelles activités propose la Maison de l'Europe à Paris ?",
+      "reponse_attendue": "La Maison de l'Europe de Paris propose des conférences, débats et événements autour des thématiques européennes.",
+      "reponse_generee": "La Maison de l'Europe de Paris propose plusieurs activités à Paris et en Île-de-France, notamment :\n\n1. **Débats et conférences** :\n   - **Quel avenir climatique pour l’Union européenne ?** (19 mai) : Un débat sur l'engagement des jeunes et la politique climatique européenne, avec des experts et des membres d’associations.\n   - **L’Afrique et l’Europe : rendez-vous historique pour une nouvelle relation ?** (8 avril) : Un débat sur les relations entre l’UE et l’Afrique, avec des acteurs clés.\n   - **L’Europe, un État qui s’ignore** (12 mai) : Une conférence de Sylvain Kahn sur l’histoire de la construction européenne et ses enseignements pour le monde actuel.\n\n2. **Événements éducatifs** :\n   - **Journée de l'Europe Cité internationale BALZAC** (6 mai) : Une conférence pour les élèves de la Cité internationale BALZAC.\n\n3. **Présentation institutionnelle** :\n   - **Présentation de la Maison de l'Europe de Paris à Ermont** (19 mai) : Une présentation de ses activités au théâtre Pierre-Fresnay à Ermont, dans le cadre du Joli Mois de l'Europe.\n\nCes activités couvrent des thèmes variés comme la politique climatique, les relations internationales, l’histoire européenne et l’éducation.",
+      "score_similarite": 0.9211,
+      "evaluation": "✅ Correcte"
+    },
+    {
+      "question": "Quels événements littéraires sont prévus à Paris ?",
+      "reponse_attendue": "La Librairie de Paris Place de Clichy organise des rencontres et événements littéraires réguliers avec des auteurs.",
+      "reponse_generee": "Voici les événements littéraires prévus à Paris parmi ceux listés :\n\n1. **Rencontres littéraires éclairs**\n   - *7 auteurs et autrices à découvrir* au **Centre culturel canadien**.\n\n2. **Grégoire Bouillier présente « Un printemps avec Arsène Lupin »**\n   - Discussion, signature et verre amical à la **Librairie de Paris**.\n\n3. **Soirée de lancement autour du recueil de nouvelles « Chevelures »**\n   - En présence de plusieurs autrices à la **Librairie de Paris**.\n\n4. **Joffrine Donnadieu présente son nouveau roman « Aux nuits à venir »**\n   - Rencontre autour de son livre à la **Librairie de Paris**.\n\n5. **La Nuit de la Littérature**\n   - 14e édition au **Centre Culturel Irlandais** (le 30 mai, bien que la date soit marquée \"nan\" dans les données).\n\n*Note* : Les dates ne sont pas précisées dans les informations fournies.",
+      "score_similarite": 0.8355,
+      "evaluation": "⚠️  Partiellement correcte"
+    },
+    {
+      "question": "Y a-t-il des événements religieux à Paris ?",
+      "reponse_attendue": "Oui, le Diocèse de Paris organise de nombreux événements religieux comme des processions, messes et concerts sacrés.",
+      "reponse_generee": "Oui, il y a plusieurs événements religieux à Paris parmi ceux listés :\n\n1. **Dimanches de Jérusalem** – Rencontres et partages ouverts à tous à l'**Église Saint-Gervais**.\n2. **Soirée \"je dis\" de la foi – thème : Le Mariage** – Échanges sur la foi, enseignement et prière à la **Maison paroissiale de Notre-Dame des Champs**.\n3. **Soirée de prière et de louange avec les reliques de saint Carlo Acutis** – Le **17 juin** à **20 h** à l'**Église Saint-Pierre de Chaillot**.\n4. **Le Sacré-Cœur, une sacrée fête de l'amour de Dieu** – Soirée sur la liturgie avec Sœur Marie-Aimée Manchon au **Collège des Bernardins**.\n\nL'événement *\"Réconcilier la Bible avec la Terre\"* au Collège des Bernardins est plutôt une conférence culturelle et théologique, mais pas spécifiquement un événement religieux.",
+      "score_similarite": 0.8994,
+      "evaluation": "⚠️  Partiellement correcte"
+    },
+    {
+      "question": "Quels événements sont prévus à l'université Paris-Saclay ?",
+      "reponse_attendue": "L'université Paris-Saclay propose des conférences, séminaires et événements académiques ouverts au public.",
+      "reponse_generee": "Voici les événements prévus à l'Université Paris-Saclay parmi ceux listés :\n\n1. **L'Université Paris-Saclay engagée pour la science ouverte**\n   - *Open Science Month* (du 04 au 28 octobre)\n   - Lieu : Tous les campus de l'Université Paris-Saclay\n\n2. **Journées européennes du patrimoine 2023**\n   - Programme dédié à l'Université Paris-Saclay\n   - Lieu : Tous les campus de l'Université Paris-Saclay\n\n3. **Prevent'Week 2025**\n   - Événement autour de la santé\n   - Lieu : Divers campus de l'Université Paris-Saclay\n\n*Note* : Le live *\"Le Développement Soutenable à l'Université Paris-Saclay\"* a lieu en visioconférence (Saclay), mais n'est pas spécifiquement organisé sur un campus physique. *Viva Technology 2026* se déroule à Paris Expo (Porte de Versailles), hors des campus de l'université.",
+      "score_similarite": 0.8927,
+      "evaluation": "⚠️  Partiellement correcte"
+    },
+    {
+      "question": "Quels événements culturels étrangers sont prévus à Paris ?",
+      "reponse_attendue": "Le FICEP - Forum des Instituts Culturels Étrangers à Paris organise des événements culturels représentant diverses cultures internationales.",
+      "reponse_generee": "Voici les événements culturels à Paris en lien avec des cultures étrangères parmi ceux listés :\n\n1. **Concert du centre France Asie \"Orient et Occident\" à la chapelle des Mission étrangères de Paris**\n   - Une soirée musicale mettant en avant les échanges entre cultures orientale et occidentale.\n\n2. **Concert « Entre deux mondes » - Festival Rêves d’enfants (Centre culturel coréen)**\n   - Un concert de piano par Lydie Solomon, franco-coréenne, dans le cadre d’un festival pour enfants, célébrant les influences culturelles coréennes.\n\n3. **Rencontres littéraires éclairs (Centre culturel canadien)**\n   - Une rencontre avec des auteurs et autrices au Centre culturel canadien, mettant en valeur la littérature canadienne.\n\n*Aucun autre événement de la liste ne correspond explicitement à une thématique culturelle étrangère.*",
+      "score_similarite": 0.8555,
+      "evaluation": "⚠️  Partiellement correcte"
+    }
+  ]
+}

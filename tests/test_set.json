@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Quels concerts sont prévus à Paris ?",
+    "reponse_attendue": "Il y a plusieurs concerts prévus à Paris, notamment les concerts COGE à l'Église Saint-Marcel les 12, 13, 19 et 20 juin 2026, ainsi que le Requiem de Fauré à l'Église Sainte-Marie des Batignolles."
+  },
+  {
+    "question": "Y a-t-il des événements pour les enfants à Paris ?",
+    "reponse_attendue": "Oui, il existe des événements familiaux et pour enfants à Paris, notamment des ateliers et activités proposés par les conservatoires de Grand Paris Seine Ouest."
+  },
+  {
+    "question": "Quels événements culturels ont lieu en juin 2026 ?",
+    "reponse_attendue": "En juin 2026, plusieurs événements culturels sont prévus à Paris, dont des concerts à l'Église Saint-Marcel, des conférences à la Maison de l'Europe, et des activités littéraires à la Librairie de Paris."
+  },
+  {
+    "question": "Quels événements se déroulent à l'Église Saint-Marcel ?",
+    "reponse_attendue": "L'Église Saint-Marcel accueille les concerts COGE les vendredis et samedis de juin 2026, avec des horaires de 20h à 23h."
+  },
+  {
+    "question": "Y a-t-il des événements jazz à Paris ?",
+    "reponse_attendue": "Oui, le JASS CLUB PARIS propose des événements jazz réguliers à Paris."
+  },
+  {
+    "question": "Quelles activités propose la Maison de l'Europe à Paris ?",
+    "reponse_attendue": "La Maison de l'Europe de Paris propose des conférences, débats et événements autour des thématiques européennes."
+  },
+  {
+    "question": "Quels événements littéraires sont prévus à Paris ?",
+    "reponse_attendue": "La Librairie de Paris Place de Clichy organise des rencontres et événements littéraires réguliers avec des auteurs."
+  },
+  {
+    "question": "Y a-t-il des événements religieux à Paris ?",
+    "reponse_attendue": "Oui, le Diocèse de Paris organise de nombreux événements religieux comme des processions, messes et concerts sacrés."
+  },
+  {
+    "question": "Quels événements sont prévus à l'université Paris-Saclay ?",
+    "reponse_attendue": "L'université Paris-Saclay propose des conférences, séminaires et événements académiques ouverts au public."
+  },
+  {
+    "question": "Quels événements culturels étrangers sont prévus à Paris ?",
+    "reponse_attendue": "Le FICEP - Forum des Instituts Culturels Étrangers à Paris organise des événements culturels représentant diverses cultures internationales."
+  }
+]

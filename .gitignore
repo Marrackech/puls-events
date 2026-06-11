@@ -1,0 +1,34 @@
+# Environnement
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Conda
+.conda/
+
+# Données (trop lourdes pour Git)
+data/
+vectorstore/
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
+*.swp
+
+# Docker
+.dockerignore
+
+# Logs
+*.log
+
+# Distribution Python
+dist/
+build/
+*.egg-info/
